@@ -1,4 +1,4 @@
-package org.spring.boot.starter;
+package com.spring.boot.starter;
 
 /**
  * Hello world!

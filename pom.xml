@@ -16,7 +16,7 @@
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
 
-  <groupId>org.spring.boot.starter</groupId>
+  <groupId>com.spring.boot.starter</groupId>
   <artifactId>demo2-spring-boot-starter</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>

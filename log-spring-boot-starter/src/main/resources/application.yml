@@ -1,0 +1,5 @@
+test:
+  appName: ${spring.application.name}
+#配置日志地址
+logging:
+  config: classpath:log/logback-${spring.profiles.active}.xml
